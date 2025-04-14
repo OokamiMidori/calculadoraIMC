@@ -1,6 +1,12 @@
 # Calculadora de IMC
 Este projeto permite calcular o Índice de Massa Corporal (IMC) de forma intuitiva, utilizando apenas HTML, CSS e JavaScript.
 Sem necessidade de instalações complicadas, basta baixar os arquivos e abrir no navegador!
+
+## 🔗 Acesse o site online
+Seu site está disponível no GitHub Pages. Acesse diretamente pelo link:
+
+➡️ https://ookamimidori.github.io/calculadoraIMC/
+
 ## 🔗 Como baixar e testar o site
 1. Clone o repositório
 Abra o terminal e execute:
